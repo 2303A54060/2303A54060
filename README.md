@@ -12,4 +12,4 @@ LAB-06-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_06.ipynb
 
 LAB-07-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_07.ipynb
 
-
+lab-08-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_08.ipynb
