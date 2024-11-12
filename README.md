@@ -15,3 +15,5 @@ LAB-07-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_07.ipynb
 lab-08-https://github.com/2303A54060/2303A54060/blob/main/AIML_LAB_08.ipynb
 
 lab-09-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_09.ipynb
+
+lab-10-https://github.com/2303A54060/2303A54060/blob/main/aiml_lab_10.ipynb
